@@ -26,17 +26,26 @@ preguntar Por que dice e incluir la respuesta anterior entre comillas.
 siguiente sesion.
 
 3. Compilar y ejecutar el programa. Este debe presentar un dialogo como el siguiente.
+
 Bienvenido, cual es su nombre?
+
 Alberto
+
 Buenas tardes Alberto.
+
 Digame, cual es su problema en la vida?
+
 Odio tener clase los viernes
+
 MMMM... ya veo
+
 Y digame ...
+
 Por que dice "odio tener clases los viernes"?
+
 Porque no puedo concentrarme y el fin de semana me parece muy corto.
+
 Muy interesante!! Hablaremos de ello con mas detalle en la siguiente sesion.
-Ojo! El texto de la segunda, quinta y novena lınea es proporcionado por el usuario.
 
 2 RFC (5 pts)
 
@@ -73,8 +82,13 @@ agregarlo al RFC.
 
 3. Compilar y ejecutar el programa RFC. El programa debe mostrar una salida como
 la siguiente:
+
 Dame el nombre completo
+
 Andrea Lopez Lopez
+
 ingresa la fecha de nacimiento en formato dd/mm/aa
+
 14/04/92
+
 El RFC de Andrea Lopez Lopez es: LOLA920414
